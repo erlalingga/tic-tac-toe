@@ -1,16 +1,25 @@
-# React + Vite
+#  Tic-Tac-Toe (React + Vite + Tailwind)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi, aku Erlangga   
+Project ini aku buat pas lagi belajar React, dan sengaja langsung bikin sesuatu yang interaktif — jadi aku pilih **Tic-Tac-Toe** (alias “X-O game”) buat latihan.  
 
-Currently, two official plugins are available:
+## ✨ Tentang Project Ini
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Game ini dibuat pakai:
+-  **React + Vite** untuk frontend-nya (karena build-nya cepat banget)
+-  **Tailwind CSS** untuk styling biar lebih clean dan responsif
+-  Dan sedikit logika JavaScript buat nentuin siapa yang menang atau kalau game-nya seri
 
-## React Compiler
+Waktu aku ngerjain project ini, aku belajar banyak hal kayak:
+- Cara kerja "state" (`useState`) di React  
+- Gimana **komponen bisa saling kirim data lewat props**
+- Konsep **immutability**, alias gimana caranya update array tanpa ngerusak data lama
+- Dan terakhir, gimana bikin **UI lebih enak dilihat** pakai Tailwind
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Fitur-Fitur
+- Ganti giliran antara pemain X dan O
+- Nentuin pemenang otomatis
+- Ada deteksi kalau game seri (semua kotak penuh tapi gak ada pemenang)
+- Tombol reset biar bisa main ulang
+- (Opsional nanti): mode dark / light ✨
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
