@@ -1,7 +1,7 @@
 #  Tic-Tac-Toe (React + Vite + Tailwind)
 
 Hi, aku Erlangga   
-Project ini aku buat pas lagi belajar React, dan sengaja langsung bikin sesuatu yang interaktif — jadi aku pilih **Tic-Tac-Toe** (alias “X-O game”) buat latihan.  
+Project ini aku buat pas lagi belajar React, dan sengaja langsung bikin sesuatu yang interaktif  jadi aku pilih **Tic-Tac-Toe** (alias “X-O game”) buat latihan.  
 
 ##  Tentang Project Ini
 
