@@ -3,7 +3,7 @@
 Hi, aku Erlangga   
 Project ini aku buat pas lagi belajar React, dan sengaja langsung bikin sesuatu yang interaktif — jadi aku pilih **Tic-Tac-Toe** (alias “X-O game”) buat latihan.  
 
-## ✨ Tentang Project Ini
+##  Tentang Project Ini
 
 Game ini dibuat pakai:
 -  **React + Vite** untuk frontend-nya (karena build-nya cepat banget)
