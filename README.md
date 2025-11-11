@@ -21,5 +21,5 @@ Waktu aku ngerjain project ini, aku belajar banyak hal kayak:
 - Nentuin pemenang otomatis
 - Ada deteksi kalau game seri (semua kotak penuh tapi gak ada pemenang)
 - Tombol reset biar bisa main ulang
-- (Opsional nanti): mode dark / light ✨
+- (Opsional nanti): mode dark / light 
 
